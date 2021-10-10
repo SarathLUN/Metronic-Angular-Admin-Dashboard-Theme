@@ -4,3 +4,6 @@
 # node modules
 demo1/node_modules/
 docs/node_modules/
+
+.DS_Store
+
