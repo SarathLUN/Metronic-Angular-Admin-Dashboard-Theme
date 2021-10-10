@@ -78,5 +78,13 @@ tonysarath/sample-angular-app-image                               latest    1ec4
 - now run the docker container:
 
 ```shell
-docker run -d -p 80:80 --name sample-angular-app tonysarath/sample-angular-app-image
+docker run -d -p 80:80 --name metronic-angular-app tonysarath/metronic-angular-app:latest
 ```
+
+- optional: push to docker hub
+
+```shell
+docker tag tonysarath/sample-angular-app-image:latest tonysarath/metronic-angular-app:8.0.25
+docker push tonysarath/metronic-angular-app:8.0.25
+```
+
