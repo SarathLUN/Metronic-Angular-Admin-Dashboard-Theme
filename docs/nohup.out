@@ -1,0 +1,86 @@
+Your global Angular CLI version (12.2.9) is greater than your local version (12.1.4). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                                     | Names         |      Size
+vendor.js                                               | vendor        |   3.99 MB
+styles.css                                              | styles        |   1.41 MB
+main.js                                                 | main          | 591.29 kB
+polyfills.js                                            | polyfills     | 128.54 kB
+runtime.js                                              | runtime       |  12.49 kB
+
+| Initial Total |   6.11 MB
+
+Lazy Chunk Files                                        | Names         |      Size
+node_modules_highlight_js_es_core_js.js                 | -             |  72.92 kB
+node_modules_highlight_js_es_languages_typescript_js.js | -             |  16.09 kB
+node_modules_highlight_js_es_languages_scss_js.js       | -             |  12.20 kB
+node_modules_highlight_js_es_languages_xml_js.js        | -             |   6.82 kB
+node_modules_highlight_js_es_languages_bash_js.js       | -             |   4.91 kB
+node_modules_highlight_js_es_languages_json_js.js       | -             |   1.92 kB
+
+Build at: 2021-10-10T06:23:51.083Z - Hash: 7d6aeaad4941adb39dfe - Time: 20053ms
+
+** Angular Live Development Server is listening on localhost:4201, open your browser on http://localhost:4201/ **
+
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+11 unchanged chunks
+
+Build at: 2021-10-10T06:23:52.867Z - Hash: 7e6a7843fc29a18239cd - Time: 895ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+11 unchanged chunks
+
+Build at: 2021-10-10T06:58:03.981Z - Hash: 7e6a7843fc29a18239cd - Time: 554ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+11 unchanged chunks
+
+Build at: 2021-10-10T06:58:49.820Z - Hash: a75078b8af65040982e7 - Time: 8124ms
+
+✔ Compiled successfully.
+Your global Angular CLI version (12.2.9) is greater than your local version (12.1.4). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                                     | Names         |      Size
+vendor.js                                               | vendor        |   3.99 MB
+styles.css                                              | styles        |   1.41 MB
+main.js                                                 | main          | 591.29 kB
+polyfills.js                                            | polyfills     | 128.54 kB
+runtime.js                                              | runtime       |  12.49 kB
+
+| Initial Total |   6.11 MB
+
+Lazy Chunk Files                                        | Names         |      Size
+node_modules_highlight_js_es_core_js.js                 | -             |  72.92 kB
+node_modules_highlight_js_es_languages_typescript_js.js | -             |  16.09 kB
+node_modules_highlight_js_es_languages_scss_js.js       | -             |  12.20 kB
+node_modules_highlight_js_es_languages_xml_js.js        | -             |   6.82 kB
+node_modules_highlight_js_es_languages_bash_js.js       | -             |   4.91 kB
+node_modules_highlight_js_es_languages_json_js.js       | -             |   1.92 kB
+
+Build at: 2021-10-10T09:51:11.433Z - Hash: a75078b8af65040982e7 - Time: 17933ms
+
+** Angular Live Development Server is listening on localhost:4201, open your browser on http://localhost:4201/ **
+
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+11 unchanged chunks
+
+Build at: 2021-10-10T09:51:13.060Z - Hash: ba6fc26a1f84eb608b0b - Time: 784ms
+
+✔ Compiled successfully.
